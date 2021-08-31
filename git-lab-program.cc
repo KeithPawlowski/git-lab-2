@@ -1,8 +1,8 @@
 /*
  *        File: git-lab-program.cc
- *      Author: Keith Pawlowski
+ *        Author: Keith Pawlowski
  *        Date: 8/31/2021
- * Description: 
+ *        Description: Print "Hello Git!!"
  */
 
 #include <iostream>
